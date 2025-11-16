@@ -47,11 +47,3 @@ I enjoy learning, building, breaking, and securing technology.
 **IT Tools:** ServiceNow • Jira • ADUC • DHCP/DNS consoles  
 **Cloud:** AWS | Azure  
 **OS:** Windows • Linux (Ubuntu/Kali) • macOS  
-
----
-
-## 📈 GitHub Stats
-(You can add these once your profile README is active)
-
-```markdown
-![Hamza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamzayounas17&show_icons=true&theme=tokyonight)
