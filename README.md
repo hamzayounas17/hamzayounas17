@@ -39,8 +39,6 @@ I enjoy learning, building, breaking, and securing technology.
 - **🎓 MSc Cyber Security Coursework**  
   Ethical hacking, digital forensics, APT analysis, SDN DDoS research  
 
-*(I can add live repo links once your repos are created.)*
-
 ---
 
 ## 🛠️ Technologies & Tools
