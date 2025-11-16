@@ -47,3 +47,13 @@ I enjoy learning, building, breaking, and securing technology.
 **IT Tools:** ServiceNow • Jira • ADUC • DHCP/DNS consoles  
 **Cloud:** AWS | Azure  
 **OS:** Windows • Linux (Ubuntu/Kali) • macOS  
+
+---
+
+## 🤝 Connect With Me
+- **LinkedIn:** https://www.linkedin.com/in/hy17  
+- **GitHub:** https://github.com/hamzayounas17  
+
+---
+
+### ⭐ Always learning. Always improving. Always building toward becoming a stronger IT & Cybersecurity professional.
